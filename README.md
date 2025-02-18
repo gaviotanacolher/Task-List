@@ -9,4 +9,5 @@ Este site foi desenvolvido para facilitar a organização de listas de itens. Co
 3. **Escuro:** Perfeito para usar no escurinho, não cansa tanto a vista.
 
 **Observações**
+
 HTML, CSS e JavaScript: As tecnologias por trás da magia.
